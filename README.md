@@ -1,27 +1,25 @@
 
-# react-native-url-preview 🐜
-
-[![NPM](https://nodei.co/npm/react-native-url-preview.png)](https://www.npmjs.com/package/react-native-url-preview)
+# react-native-url-preview-tgp - fork of react-native-url-preview
 
 
 Parses text and wraps URLs , transform the url to a beautiful link preview
 
-## Getting started 🐜
+## Getting started 
 
 `$ npm install react-native-url-preview --save`
 
-## Usage 🐜
+## Usage 
 ```javascript
 import RNUrlPreview from 'react-native-url-preview';
 
 <RNUrlPreview text={"any text to be parsed , https://www.youtube.com/watch?v=Kmiw4FYTg2U"}/>
 ```
 
-## Examples🐜
+## Examples
 
 Please refer to the [react-native-url-preview example](https://github.com/maherzaidoune/RNUrlPreviewExample) provided to see how `react-native-url-preview` can be used .
 
-## Demo🐜
+## Demo
 
 <p align="center" >
         <a href="https://github.com/maherzaidoune/react-native-url-preview"><img src="https://i.imgur.com/dJLTTRr.gif" title="source: imgur.com" /></a>
