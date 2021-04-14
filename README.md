@@ -26,7 +26,7 @@ Please refer to the [react-native-url-preview example](https://github.com/maherz
         <a href="https://imgur.com/ruyH0PR"><img src="https://i.imgur.com/ruyH0PR.gif" title="source: imgur.com" /></a>
 </p>
 
-## Customization 🐜
+## Customization 
 
 | Parameter                | Required? | Default                    | Type      | Description                                            |
 | :----------------------- | :-------: | :------------------------- | :-------- | :----------------------------------------------------- |
@@ -45,7 +45,7 @@ Please refer to the [react-native-url-preview example](https://github.com/maherz
 | requestOptions           |    NO     | `{}`                       | `object`  | pass additional options to url preview request
 | onLoad                   |    NO     | `() => {}`                 | `function`| callback called when url preview data is loaded          |
 | onError                  |    NO     | `() => {}`                 | `function`| callback called if url preview fails to load           |
-## Credits 🐜
+## Credits 
 
 - Thanks to [marouan frih](https://github.com/Madm0x) for the REGEX
 - extract information from a URL with [link-preview-js](https://github.com/ospfranco/link-preview-js)
