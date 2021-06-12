@@ -1,5 +1,5 @@
 {
-  "name": "react-native-url-preview",
+  "name": "react-native-url-preview-tgp",
   "version": "1.1.9",
   "description": "react native url previewer",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "youtube video preview",
     "link preview"
   ],
-  "author": "Zaidoune Maher",
+  "author": "SAN - forked from the original work of Zaidoune Maher",
   "license": "MIT",
   "peerDependencies": {
     "prop-types": "*",
@@ -24,15 +24,16 @@
     "react-native-windows": "0.41.0-rc.1"
   },
   "dependencies": {
-    "link-preview-js": "2.0.4"
+    "link-preview-js": "2.0.4",
+    "react-native-rename": "^2.9.0"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maherzaidoune/react-native-url-preview.git"
+    "url": "git+https://github.com/thegitparticle/react-native-url-preview-tgp.git"
   },
   "bugs": {
-    "url": "https://github.com/maherzaidoune/react-native-url-preview/issues"
+    "url": "https://github.com/thegitparticle/react-native-url-preview-tgp/issues"
   },
-  "homepage": "https://github.com/maherzaidoune/react-native-url-preview#readme"
+  "homepage": "https://github.com/thegitparticle/react-native-url-preview-tgp#readme"
 }
